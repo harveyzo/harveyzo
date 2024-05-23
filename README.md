@@ -2,6 +2,6 @@
 
 - 💬 Front-end engineer
 
-## 🕐 WakaTime
+**🕐 WakaTime**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
