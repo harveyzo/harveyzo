@@ -16,11 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2024 - To: 22 May 2024
+From: 16 May 2024 - To: 23 May 2024
 
-Total Time: 0 secs
+Total Time: 5 hrs 9 mins
 
-No activity tracked
+HTML         2 hrs 28 mins   >>>>>>>>>>>>-------------   47.87 %
+TypeScript   1 hr 48 mins    >>>>>>>>>----------------   35.09 %
+JavaScript   25 mins         >>-----------------------   08.22 %
+JSON         14 mins         >------------------------   04.82 %
+SCSS         9 mins          >------------------------   03.08 %
 ```
 
 <!--END_SECTION:waka-->
