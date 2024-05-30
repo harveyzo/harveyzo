@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 May 2024 - To: 28 May 2024
+From: 22 May 2024 - To: 29 May 2024
 
-Total Time: 23 hrs 35 mins
+Total Time: 27 hrs 32 mins
 
-YAML          7 hrs 22 mins   >>>>>>>------------------   26.78 %
-TypeScript    4 hrs 21 mins   >>>>---------------------   15.83 %
-HTML          4 hrs 2 mins    >>>>---------------------   14.68 %
-Other         3 hrs 56 mins   >>>>---------------------   14.34 %
-JavaScript    2 hrs 40 mins   >>-----------------------   09.74 %
+YAML          7 hrs 47 mins   >>>>>>-------------------   23.85 %
+TypeScript    6 hrs 10 mins   >>>>>--------------------   18.91 %
+Other         5 hrs 7 mins    >>>>---------------------   15.67 %
+HTML          4 hrs 20 mins   >>>----------------------   13.29 %
+JSON          2 hrs 51 mins   >>-----------------------   08.77 %
 ```
 
 <!--END_SECTION:waka-->
