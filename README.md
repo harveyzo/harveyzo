@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2024 - To: 26 September 2024
+From: 20 September 2024 - To: 27 September 2024
 
-Total Time: 19 hrs 9 mins
+Total Time: 19 hrs 7 mins
 
-TypeScript   13 hrs 18 mins  >>>>>>>>>>>>>>>>>--------   69.33 %
-HTML         4 hrs 37 mins   >>>>>>-------------------   24.09 %
-JSON         1 hr 5 mins     >------------------------   05.73 %
+TypeScript   11 hrs 21 mins  >>>>>>>>>>>>>>>----------   59.33 %
+HTML         6 hrs 4 mins    >>>>>>>>-----------------   31.76 %
+JSON         1 hr 26 mins    >>-----------------------   07.57 %
 SCSS         8 mins          -------------------------   00.73 %
-Other        1 min           -------------------------   00.10 %
+Docker       5 mins          -------------------------   00.49 %
 ```
 
 <!--END_SECTION:waka-->
