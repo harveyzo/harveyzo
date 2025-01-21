@@ -7,9 +7,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [关于我的博客建站经历](https://blog.izou.top/2025/01/blog-site-build/)
 - [白嫖！搭建自己的域名邮箱](https://blog.izou.top/2025/01/domain-mail/)
-- [CSS 锚点定位](https://blog.izou.top/2024/07/css-anchor-position/)
-- [前端如何检测项目中新版本的发布？](https://blog.izou.top/2024/04/version-update/)
-- [如何管理多个 Git 身份](https://blog.izou.top/2024/04/multi-git-identity/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🕐 WakaTime
