@@ -14,11 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2025 - To: 04 February 2025
+From: 29 January 2025 - To: 05 February 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 50 mins
 
-No activity tracked
+Vue.js       46 mins         >>>>>>>>>>---------------   41.73 %
+JavaScript   26 mins         >>>>>>-------------------   24.22 %
+TypeScript   10 mins         >>-----------------------   09.70 %
+JSON         8 mins          >>-----------------------   08.12 %
+Markdown     8 mins          >>-----------------------   07.48 %
 ```
 
 <!--END_SECTION:waka-->
