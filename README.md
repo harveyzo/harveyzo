@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2025 - To: 16 February 2025
+From: 10 February 2025 - To: 17 February 2025
 
-Total Time: 41 hrs 38 mins
+Total Time: 46 hrs 13 mins
 
-Vue.js       20 hrs 20 mins  >>>>>>>>>>>>-------------   48.82 %
-HTML         6 hrs 57 mins   >>>>---------------------   16.69 %
-TypeScript   5 hrs 1 min     >>>----------------------   12.07 %
-CSS          3 hrs 12 mins   >>-----------------------   07.71 %
-JavaScript   2 hrs 9 mins    >------------------------   05.20 %
+Vue.js       20 hrs 55 mins  >>>>>>>>>>>--------------   45.27 %
+HTML         10 hrs 26 mins  >>>>>>-------------------   22.58 %
+TypeScript   5 hrs 1 min     >>>----------------------   10.88 %
+CSS          3 hrs 46 mins   >>-----------------------   08.16 %
+JavaScript   2 hrs 26 mins   >------------------------   05.29 %
 ```
 
 <!--END_SECTION:waka-->
