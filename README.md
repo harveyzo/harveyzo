@@ -7,6 +7,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [CSS Anchor Position](https://blog.izou.top/posts/css-anchor/)
 - [白嫖！搭建自己的域名邮箱](https://blog.izou.top/posts/domain-mail/)
+- [如何判断没有后缀名的文件类型](https://blog.izou.top/posts/filetype-check/)
 - [如何管理多个 Git 身份](https://blog.izou.top/posts/multi-git-identify/)
 <!-- BLOG-POST-LIST:END -->
 
