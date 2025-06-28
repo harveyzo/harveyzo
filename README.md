@@ -8,8 +8,8 @@
 - [同步执行异步任务还能这样做？](https://blog.izou.top/posts/sync-executed/)
 - [CSS Anchor Position](https://blog.izou.top/posts/css-anchor/)
 - [白嫖！搭建自己的域名邮箱](https://blog.izou.top/posts/domain-mail/)
+- [2024 年终总结](https://blog.izou.top/posts/2024-year-end-summary/)
 - [如何判断没有后缀名的文件类型](https://blog.izou.top/posts/filetype-check/)
-- [如何管理多个 Git 身份](https://blog.izou.top/posts/multi-git-identify/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🕐 WakaTime
