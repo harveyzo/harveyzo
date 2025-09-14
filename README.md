@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
-Total Time: 29 hrs 16 mins
+Total Time: 27 hrs 57 mins
 
-Vue.js       17 hrs 44 mins  >>>>>>>>>>>>>>>----------   60.47 %
-TypeScript   9 hrs 48 mins   >>>>>>>>-----------------   33.42 %
-Markdown     1 hr 33 mins    >------------------------   05.30 %
-YAML         5 mins          -------------------------   00.29 %
-Other        4 mins          -------------------------   00.25 %
+Vue.js       16 hrs 25 mins  >>>>>>>>>>>>>>>----------   58.63 %
+TypeScript   9 hrs 48 mins   >>>>>>>>>----------------   34.98 %
+Markdown     1 hr 33 mins    >------------------------   05.55 %
+YAML         5 mins          -------------------------   00.30 %
+Other        4 mins          -------------------------   00.26 %
 ```
 
 <!--END_SECTION:waka-->
