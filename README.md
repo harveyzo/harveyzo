@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 05 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
-Total Time: 21 hrs 18 mins
+Total Time: 20 hrs 24 mins
 
-Vue.js       16 hrs 2 mins   >>>>>>>>>>>>>>>>>>>------   75.26 %
-TypeScript   4 hrs 34 mins   >>>>>--------------------   21.43 %
-Markdown     42 mins         >------------------------   03.29 %
+Vue.js       17 hrs 57 mins  >>>>>>>>>>>>>>>>>>>>>>---   88.04 %
+TypeScript   1 hr 44 mins    >>-----------------------   08.51 %
+Markdown     42 mins         >------------------------   03.44 %
 CSS          0 secs          -------------------------   00.01 %
 Other        0 secs          -------------------------   00.01 %
 ```
