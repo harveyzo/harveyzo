@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2026 - To: 11 January 2026
+From: 05 January 2026 - To: 12 January 2026
 
-Total Time: 13 hrs 8 mins
+Total Time: 6 hrs 8 mins
 
-Vue.js       11 hrs 33 mins  >>>>>>>>>>>>>>>>>>>>>>---   88.00 %
-TypeScript   1 hr 27 mins    >>>----------------------   11.06 %
-JSON         3 mins          -------------------------   00.49 %
-Markdown     3 mins          -------------------------   00.44 %
-Git Config   0 secs          -------------------------   00.01 %
+Vue.js       5 hrs 15 mins   >>>>>>>>>>>>>>>>>>>>>----   85.59 %
+TypeScript   48 mins         >>>----------------------   13.10 %
+JSON         3 mins          -------------------------   01.04 %
+Markdown     0 secs          -------------------------   00.23 %
+Git Config   0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
